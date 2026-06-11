@@ -6,6 +6,6 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-web'
     implementation project(':erp-application')
     implementation project(':erp-infrastructure')
-    implementation project(':erp-common')
-    implementation project(':erp-domain')
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 }
