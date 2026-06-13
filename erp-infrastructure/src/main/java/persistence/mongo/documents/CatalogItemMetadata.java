@@ -1,4 +1,4 @@
-package documents;
+package persistence.mongo.documents;
 
 import java.math.BigDecimal;
 import java.util.List;

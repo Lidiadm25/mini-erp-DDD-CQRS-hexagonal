@@ -1,4 +1,4 @@
-package documents;
+package persistence.mongo.documents;
 
 
 import lombok.AllArgsConstructor;

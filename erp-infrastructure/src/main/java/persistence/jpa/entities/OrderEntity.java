@@ -1,4 +1,4 @@
-package entities;
+package persistence.jpa.entities;
 
 import jakarta.persistence.*;
 import java.math.BigDecimal;

@@ -1,4 +1,4 @@
-package documents;
+package persistence.mongo.documents;
 
 import jakarta.persistence.Id;
 import lombok.*;

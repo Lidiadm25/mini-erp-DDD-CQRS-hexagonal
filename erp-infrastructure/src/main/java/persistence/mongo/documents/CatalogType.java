@@ -1,4 +1,4 @@
-package documents;
+package persistence.mongo.documents;
 
 public enum CatalogType {
     PRODUCT_CATEGORIES,

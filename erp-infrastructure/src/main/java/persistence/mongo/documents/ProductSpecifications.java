@@ -1,4 +1,4 @@
-package documents;
+package persistence.mongo.documents;
 
 public record ProductSpecifications(
         String processor,
