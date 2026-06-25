@@ -1,13 +1,11 @@
-package com.Lidiadm25.mini_erp.domain.Catalog;
+package com.Lidiadm25.mini_erp.domain.catalog;
 
 import com.Lidiadm25.mini_erp.domain.common.Entity;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.ToString;
 
-import java.util.HashMap;
 import java.util.Map;
-import java.util.UUID;
 
 @Getter
 @ToString

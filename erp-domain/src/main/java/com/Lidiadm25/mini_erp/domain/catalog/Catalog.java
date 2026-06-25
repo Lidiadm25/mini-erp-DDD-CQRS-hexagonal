@@ -1,4 +1,4 @@
-package com.Lidiadm25.mini_erp.domain.Catalog;
+package com.Lidiadm25.mini_erp.domain.catalog;
 
 import com.Lidiadm25.mini_erp.domain.common.AggregateRoot;
 import lombok.EqualsAndHashCode;
